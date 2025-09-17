@@ -9,4 +9,4 @@
 
 **Beispiel:** Google Workspace, Microsoft 365, Dropbox
 
-![SaaS Beispiel](https://example.com/saas-image.png) <!-- Beispiel für ein Bild -->
+![SaaS Beispiel](./Pictures/saas.png) <!-- Beispiel für ein Bild -->
