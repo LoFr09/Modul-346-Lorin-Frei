@@ -9,4 +9,4 @@
 
 **Beispiel:** Amazon Web Services (AWS), Microsoft Azure
 
-![IaaS Beispiel](https://example.com/iaas-image.png)  <!-- Dies ist ein Beispiel für ein Bild -->
+![IaaS Beispiel](./Pictures/2.-IaaS-services.png)  <!-- Dies ist ein Beispiel für ein Bild -->

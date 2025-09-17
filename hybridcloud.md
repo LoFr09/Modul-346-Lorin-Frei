@@ -9,4 +9,4 @@
 
 **Beispiel:** Kombination aus Amazon Web Services (AWS) und lokalen Servern
 
-![Hybrid Cloud Beispiel](https://example.com/hybrid-cloud-image.png) <!-- Beispiel für ein Bild -->
+![Hybrid Cloud Beispiel](./Pictures/TB1QeMELVYqK1RjSZLeXXbXppXa-1591-1078.png_.png) <!-- Beispiel für ein Bild -->
